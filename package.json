@@ -1,0 +1,27 @@
+{
+  "name": "desafios-extras-dwf-m2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexismunoz1/Desafios-extras-dwf-m2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexismunoz1/Desafios-extras-dwf-m2/issues"
+  },
+  "homepage": "https://github.com/alexismunoz1/Desafios-extras-dwf-m2#readme",
+  "dependencies": {
+    "jsonfile": "^6.1.0",
+    "minimist": "^1.2.5"
+  },
+  "devDependencies": {
+    "@types/node": "^15.6.1"
+  }
+}
